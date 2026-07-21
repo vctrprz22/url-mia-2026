@@ -1,0 +1,14 @@
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\bin\Debug\net8.0\Laboratorio_2_CSV_JSON.exe
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\bin\Debug\net8.0\Laboratorio_2_CSV_JSON.deps.json
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\bin\Debug\net8.0\Laboratorio_2_CSV_JSON.runtimeconfig.json
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\bin\Debug\net8.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\bin\Debug\net8.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.AssemblyInfoInputs.cache
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.AssemblyInfo.cs
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.csproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\refint\Laboratorio_2_CSV_JSON.dll
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\Laboratorio_2_CSV_JSON.genruntimeconfig.cache
+C:\Users\perez\Desktop\Laboratorio_2_CSV_JSON\obj\Debug\net8.0\ref\Laboratorio_2_CSV_JSON.dll
